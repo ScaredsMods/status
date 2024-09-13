@@ -3,7 +3,7 @@ owner: ScaredsMods # Your GitHub organization or username, where this repository
 repo: status # The name of this repository
 
 sites:
-  - name: ScaredsMods | Documentation
+  - name: ScaredsMods Documentation
     url: https://scaredsmods.github.io/documentation/
 
 status-website:
@@ -13,7 +13,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/ScaredsMods/documentation/main/static/img/logo.svg
   name: Scaredsmods | Status
-  faviconSvg: https://scaredsmods.github.io/status/assets/favicon.ico
+  faviconSvg: https://raw.githubusercontent.com/ScaredsMods/status/master/assets/favicon.ico
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
